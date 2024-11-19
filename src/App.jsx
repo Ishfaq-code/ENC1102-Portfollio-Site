@@ -1,14 +1,20 @@
-import { About } from "./components/About"
-import { Navabr } from "./components/Navabr"
-import { Work } from "./components/Work"
+
+import Home from "./Pages/Home"
+import Moon from "./Pages/Moon"
+import Planet from "./Pages/Planet"
+import Stars from "./Pages/Stars"
+import {Route, Routes} from "react-router-dom"
 
 function App() {
 
   return (
     <>
-      <Navabr />
-      <About />
-      <Work />
+     <Routes>
+      <Route path="/" element={<Home />} />
+      <Route path="/moon" element={<Moon />} />
+      <Route path="/planet" element={<Planet />} />
+      <Route path="/stars" element={<Stars />} />
+     </Routes>
     </>
   )
 }

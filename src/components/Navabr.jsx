@@ -1,28 +1,19 @@
 import React from 'react'
+import { linksArray } from '../assets/navlinks.js'
+import { Link } from 'react-router-dom'
 
 export const Navabr = () => {
   return (
-    <nav className="bg-slate-600 shadow-md text-white">
-    <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
-      <div className="flex justify-between h-16 items-center">
-        {/* Company Name */}
-        <div className="flex-shrink-0">
-          <h1 className="text-xl font-bold">Ishfaq Mohsin</h1>
-        </div>
-
-        {/* Navigation Links */}
-        <div className="hidden md:flex space-x-8">
-          <a href="#" className="">
-            Home
-          </a>
-          <a href="#" className="">
-            About
-          </a>
-          <a href="#" className="">
-            My Works
-          </a>
-       
-        </div>
+    <nav className="bg-gradient-to-r from-violet-800 to-indigo-900 text-white p-4 font-poppins">
+    <div className="container mx-auto px-4 py-3">
+      <div className="flex justify-center">
+        <ul className="flex space-x-8">
+         {linksArray.map((navlink) => (
+            <li key={navlink.id}>
+            <Link to={navlink.link} className="hover:text-gray-200 transition-colors duration-300 text-xl ">{navlink.title}</Link>
+            </li>
+         ))}
+        </ul>
       </div>
     </div>
   </nav>
