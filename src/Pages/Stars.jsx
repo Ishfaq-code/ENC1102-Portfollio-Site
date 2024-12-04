@@ -4,6 +4,7 @@ import StarsAbout from '../components/StarsAbout'
 import StarsCard from '../components/StarsCard'
 import { outCome1, outCome2, outCome3, outCome4, outCome5, outCome6 } from '../assets/works'
 import FinalReflect from '../components/FinalReflect'
+import Index from '../components/Index'
 
 const Stars = () => {
   return (
@@ -17,6 +18,7 @@ const Stars = () => {
     <StarsCard header="Outcome 5" outcome={outCome5}/>
     <StarsCard header="Outcome 6" outcome={outCome6}/>
     <FinalReflect/>
+    <Index />
     </>
   )
 }

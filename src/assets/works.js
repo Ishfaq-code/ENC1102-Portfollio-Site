@@ -71,3 +71,69 @@ export const outCome6 = `"Revision" refers to my ability for critical self-refle
 
 
 export const finalReflection = `ENC 1102 has been a class focused on self-reflection. From starting with understanding my writing to exploring my community, the class has allowed me to reflect on my writing journey throughout. It exposed me to a wealth of information about various types of writing, styles, and understanding. I have developed an understanding of style conventions for different literary texts, particularly the narrative and analytical approaches, which will be useful in my future writing depending on the rhetorical situation (for example, using an analytical style when sending an email). As I move forward, I hope to encounter various kinds of writing where I can apply these styles.`;
+
+export const majorProj3RR = `I approached Major Project 3 reader response much more differently than my other two. Major project 3 entailed writing a rhetorical analysis from a previous project. So it required me to grasp many concepts regarding this subject. For Major project 3 I was required to do a reader response on Doug Down and Grant-Davie, but I will focus on Doug Downs more as I believe his text helped me the most.  I do so in my reader response by discussing my previous knowledge of rhetoric as done in the beginning paragraphs before conceptualizing terms such as ‘Rhetorical Ecology’ in my response. I grasp these topics which prove to be later useful in my major project 3 when I discuss the exigence and purpose of my writing and such. It is also evident that I am looking to understand multiple concepts in this reader response than just one concept as I did with my previous responses as I want to understand these topics for using them in my own writing.`;
+
+export const MJ31 =` For Major Project 3, which was a letter to a future student while analyzing my past major projects,  I was a bit confused on how I wanted to start and frankly I rushed through it. This is evident when looking at my organization of the letter. It is all over the place.  I start with a very ambiguous beginning failing to state the learning outcomes I want to discuss. Then I go into discussing my previous major projects which I again do so horribly. I state what the major projects are and give evidence but fail to actually expand on these evidence. They are left as pieces of information with no connection between them. Further I also fail to actually explain how my evidence for every major project actually connects to my learning outcome. I failed to utilize what I grasped from my reader response and wanted to change that in my final draft.
+`;
+
+export const MJ32 = ` From Dr. Tanemura’s feedback I was able to heavily improve my project. The first thing was the organization. It now flowed perfectly where I mention the two learning outcomes I hoped to discuss in the first paragraph before jumping straight into discussing them. I briefly introduced each major project before providing evidence from them and finally elaborating on how the evidence connected directly with the learning outcomes. This heavily improved the organization of my letter and made it much easier to read and understand. I also managed to elaborate much further on the evidence I provided showing my learning outcomes which really highlighted the materials I grasped from the reader responses. 
+`;
+
+export const allLinks = [
+    {
+        title: "Reader Response to Lamott",
+        link: "https://docs.google.com/document/d/1OKLuZHuc-aI7i6vBLXpukXTLRYn3nFp078arv_GpMIQ/edit?usp=sharing"
+    },
+
+    {
+        title: "Reader Response to Wardle",
+        link: "https://docs.google.com/document/d/1cBu2gwTW7GHU-dRpwbC_ogbT5n6gtetn7ALXG_7cRNo/edit?usp=sharing"
+    },
+
+    {
+        title: "Reader Response to Downs",
+        link: "https://docs.google.com/document/d/1ZORaai2oKeDciuKbdsmnRsug0_BfobDRzLhQn64V0nk/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project One, First Draft",
+        link: "https://docs.google.com/document/d/1d6XwG6J1OycrkNHET93I7a4w4JJon5IhzsxuQcv2Dnk/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project One, Final Draft",
+        link: "https://docs.google.com/document/d/1IUGIBj1CtFDUlyf_iXVnmS5JHd_0FsW8y8mL2CK6IIY/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project Two, First Draft",
+        link: "https://docs.google.com/document/d/1BXvv4eP6LvFb_H2vLri0iYUDzg0WrKJ_l9QQ4c6L9PM/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project Two, Final Draft",
+        link: "https://docs.google.com/document/d/1_GgkbUKop9Ph482loF0Rm9APYl3u-IKz-_kFqLKvOaU/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project Three, First Draft",
+        link: "https://docs.google.com/document/d/1hwP5U0EL-hBpNXzHkB2jC9_Q4bg1GqY3FAmhd623h7U/edit?usp=sharing"
+    },
+
+    {
+        title: "Major Project Three, Final Draft",
+        link: "https://docs.google.com/document/d/1ChVSiAfUsg2EcYKbzqAxAT151n4DwzeKiGYWzMuAMBw/edit?usp=sharing"
+    },
+
+    {
+        title: "Reflection",
+        link: "https://docs.google.com/document/d/1q4A1WIaEvW7Y0-_npNQmKHJ0KUKMnHopwCdMv1y5NaU/edit?usp=sharing"
+    },
+
+
+
+
+
+    
+]
